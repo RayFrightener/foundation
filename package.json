@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "prisma": "latest",
+    "@prisma/client": "latest",
+    "next-auth": "latest",
+    "@auth/prisma-adapter": "latest",
+    "react-icons": "latest"
+  }
+}
